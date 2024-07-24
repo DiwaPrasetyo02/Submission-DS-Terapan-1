@@ -3,7 +3,12 @@
 ## Business Understanding
 Perusahaan Jaya Jaya Maju menghadapi masalah tingginya tingkat keluarnya karyawan (attrition). Walaupun telah menjadi menjadi perusahaan yang cukup besar, Jaya Jaya Maju masih cukup kesulitan dalam mengelola karyawan. Hal ini berimbas tingginya attrition rate (rasio jumlah karyawan yang keluar dengan total karyawan keseluruhan) hingga lebih dari 10%. Oleh karena itu, perlu dianalisis faktor-faktor yang mempengaruhi tingkat keluarnya karyawan untuk membantu departemen HR dalam mengurangi tingkat attrition.
 ### Permasalahan Bisnis
-Perusahaan kesulitan untuk mengelola karyawan. Hal ini akan berdampak pada penurunan kredibilitas perusahaan.
+Perusahaan Jaya Jaya maju mengalami kesulitan dalam mengelola pekerja, hal ini akan berdampak pada penurunan kredibilitas perusahaan. 
+Berikut adalah beberapa masalah bisnis utama yang dihadapi:
+1. Penurunan Produktivitas: Kehilangan karyawan yang berpengalaman menyebabkan penurunan produktivitas tim dan perusahaan secara keseluruhan. Menggantikan karyawan dengan pengetahuan dan keterampilan yang sama dalam waktu singkat sangat sulit.
+2. Gangguan Operasional: Kepergian karyawan secara tiba-tiba mengganggu alur kerja dan menyebabkan penundaan proyek atau tugas, yang akhirnya berdampak pada kualitas layanan kepada klien.
+3. Penurunan Kepuasan Karyawan: Tingginya tingkat keluarnya karyawan dapat menurunkan moral dan kepuasan karyawan yang masih bertahan, menciptakan lingkungan kerja yang kurang kondusif.
+
 ### Cakupan Proyek
 1. Pengumpulan dan pengelolaan data karyawan
 2. Membangun model machine learning

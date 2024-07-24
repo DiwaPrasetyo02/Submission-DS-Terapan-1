@@ -11,7 +11,7 @@ Perusahaan kesulitan untuk mengelola karyawan. Hal ini akan berdampak pada penur
 4. Membuat dashboard untuk memvisualisasikan analisa
 5. Memberikan rekomendasi tindakan
 ### Persiapan
-[Sumber Data]('https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee')
+[Sumber Data](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
 
 Setup Environtment
 ```

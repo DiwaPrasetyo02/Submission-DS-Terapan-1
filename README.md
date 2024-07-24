@@ -20,7 +20,8 @@ Setup Environtment
 !pip install numpy==1.24.4 pandas==2.1.4 matplotlib==3.7.5 seaborn==0.13.2
 ```
 ## Business Dashboard
-Dashboard dibuat berdasarkan analisis yang telah ditentukan sebelumnya. Pada dashboard terdapat setidaknya 6 faktor yang mempengaruhi tingginya angka attrition di perusahaan. Pada halaman pertama menjelaskan tentang faktor attrition secara umum. Pada Halaman kedua menjelaskan secara spesisfik di department mana yang menjadi angka attrition terbesar. Beserta faktornya.
+Dashboard dibuat berdasarkan analisis yang telah ditentukan sebelumnya. Pada dashboard terdapat setidaknya 6 faktor yang mempengaruhi tingginya angka attrition di perusahaan. Pada halaman pertama menjelaskan tentang faktor attrition secara umum. Pada Halaman kedua menjelaskan secara spesisfik di department mana yang menjadi angka attrition terbesar beserta faktornya.
+[Link Dashboard](https://lookerstudio.google.com/reporting/24d8290c-bf4d-4ff4-9f2e-6502ae3e9ac5)
 ### Rekomendasi Action Items
 Berikut adalah rekomendasi yang dapat dilakukan perusahaan Jaya Jaya Maju untuk mengurangi tingkat attrition:
 1. Department

@@ -22,6 +22,8 @@ Setup Environtment
 ## Business Dashboard
 Dashboard dibuat berdasarkan analisis yang telah ditentukan sebelumnya. Pada dashboard terdapat setidaknya 6 faktor yang mempengaruhi tingginya angka attrition di perusahaan. Pada halaman pertama menjelaskan tentang faktor attrition secara umum. Pada Halaman kedua menjelaskan secara spesisfik di department mana yang menjadi angka attrition terbesar beserta faktornya.
 [Link Dashboard](https://lookerstudio.google.com/reporting/24d8290c-bf4d-4ff4-9f2e-6502ae3e9ac5)
+## Conclusion
+Karyawan yang keluar mayoritas berasal dari department ***R&D*** dengan status single dan jarang melakukan perjalanan bisnis sehingga tidak puas dengan pekerjaan yang dijalani. Pekerja yang keluar juga melakukan lembur dan keluar setelah promosi jabatan.
 ### Rekomendasi Action Items
 Berikut adalah rekomendasi yang dapat dilakukan perusahaan Jaya Jaya Maju untuk mengurangi tingkat attrition:
 1. Department
